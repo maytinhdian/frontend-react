@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div className="App">
+    <div className="bg-purple-500">
         App.jsx
     </div>
   )
