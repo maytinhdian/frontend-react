@@ -8,3 +8,7 @@
 
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init
+
+### Install react-router-dom
+
+- npm install react-router-dom
